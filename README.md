@@ -38,7 +38,9 @@ Arduino IDE (with ESP32 board support).
 ## 🔹 Repository Structure
 - `firmware/` → ESP32 Arduino code (`esp32_smart_street_light.ino`)  
 - `hardware/` → wiring connections, circuit details  
-- `docs/` → project report (`MINI_PROJECT_REPORT.pdf`)  
+- `docs/` → project documents  
+  - [Mini Project Report](docs/MINI%20PROJECT%20REPORT.pdf)  
+  - [Mini Project Cover Page](docs/mini%20project%20COVER%20PAGE.pdf)  
 - `media/` → prototype photos and diagrams  
 
 ---
@@ -47,7 +49,7 @@ Arduino IDE (with ESP32 board support).
 - Prototype successfully implemented and tested.  
 - Lights respond correctly to both **ambient light** and **motion**.  
 - Energy savings observed during testing.  
-- 📑 Full documentation available in **[docs/MINI_PROJECT_REPORT.pdf](docs/MINI_PROJECT_REPORT.pdf)**.  
+- 📑 Full documentation available in **[docs/MINI PROJECT REPORT.pdf](docs/MINI%20PROJECT%20REPORT.pdf)**  
 
 ---
 

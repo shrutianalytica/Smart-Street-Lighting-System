@@ -17,7 +17,7 @@ This system reduces power consumption, enhances safety, and can be scaled for re
 
 ## 🔹 Hardware & Software
 **Hardware Components**:  
-See the complete [Components List](Components%20list/README.md).  
+See the complete ![Components List](Components%20list/README.md).  
 
 **Software Requirements**:  
 - Arduino IDE (with ESP32 board support installed)  

@@ -38,9 +38,9 @@ Arduino IDE (with ESP32 board support).
 ## 🔹 Repository Structure
 - `firmware/` → ESP32 Arduino code (`esp32_smart_street_light.ino`)  
 - `hardware/` → wiring connections, circuit details  
-- `docs/` → project documents  
-  - [Mini Project Report](docs/MINI%20PROJECT%20REPORT.pdf)  
-  - [Mini Project Cover Page](docs/mini%20project%20COVER%20PAGE.pdf)  
+- `docs/` → project documents
+  - [Mini Project Cover Page](docs/mini%20project%20COVER%20PAGE.pdf) 
+  - [Mini Project Report](docs/MINI%20PROJECT%20REPORT.pdf)   
 - `media/` → prototype photos and diagrams  
 
 ---
